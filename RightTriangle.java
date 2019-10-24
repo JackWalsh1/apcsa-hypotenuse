@@ -6,8 +6,6 @@ public class RightTriangle {
     private static Scanner in = new Scanner(System.in);
     public static void main(String[] args) {
 
-        
-
         System.out.print("\nEnter base: ");
         double base = in.nextDouble();
         System.out.print("Enter height: ");
